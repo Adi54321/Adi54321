@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning JavaScript
-- 💻 Software Engineer Intern at Achievers
-- ⚡ Fun fact: I buy JPEGs
-- 📫 How to reach me: ahmad12p@uwindsor.ca
+- 🌱 I’m currently learning JavaScript, Python and NodeJS
+- ⚡ Fun fact: I buy Airplane Model's
+- 📫 How to reach me: naeem9@uwindsor.ca
